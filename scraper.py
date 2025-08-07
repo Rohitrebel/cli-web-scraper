@@ -5,7 +5,7 @@ from datetime import datetime
 filename = f"headlines_{datetime.now().strftime('%Y-%m-%d')}.txt"
 
 try:  
-  limit = int(input("Specify how many numbe of headlines you want fetch: "))
+  limit = int(input("Specify how many number of headlines you want fetch: "))
 except ValueError:
   print("Invalid number! Defaulting to 10 headlines")
 
