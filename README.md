@@ -33,13 +33,6 @@ Install dependencies using:
 pip install -r requirements.txt
 ```
 
-**requirements.txt**
-
-```
-requests
-beautifulsoup4
-```
-
 ---
 
 ## How to Run
